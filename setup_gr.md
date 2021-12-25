@@ -12,14 +12,14 @@
 
 Παρέχεται ένα αρχικό πρότζεκτ το οποίο περιλαμβάνει τις εικόνες για το workshop, καθώς επίσης και ενδεικτικό κώδικα για την λύση. Για να αποκτήσετε το πρότζεκτ:
 
-1. Επισκεφθείτε την σελίδα [https://github.com/microsoft/workshop-library/](https://github.com/microsoft/workshop-library/)
+1. Επισκεφθείτε την σελίδα [https://github.com/sitistas/wanna-know-the-breed-of-your-dog](https://github.com/sitistas/wanna-know-the-breed-of-your-dog)
 1. Επιλέξτε **Use this template** για να δημιουργήσετε ένα αντίγραφο του αποθετηρίου στον λογαριασμό σας στο GitHub.
 1. Ονομάστε το νέο αποθετήριο **workshop-library**
 1. Επιλέξτε **Create repository from template**
 1. Όταν ανοίξει το νέο αποθετήριο, επιλέξτε **Code**
 1. Επιλέξτε την καρτέλα **Local** και μετά το κουμπί **Copy**
 
-    ![Copy icon](/./images/copy.png)
+    ![Copy icon](/images/copy.png)
 
 1. Ανοίξτε ένα τερματικό ή γραμμή εντολών και εκτελέστε τον ακόλουθο κώδικα, αντικαθιστώντας το \<URL\> με το URL που αντιγράψατε στο προηγούμενο βήμα
 
