@@ -11,13 +11,13 @@
 | **Τι θα μάθετε**       | Να χρησιμοποιείτε εικόνες για την εκπαίδευση ενός μοντέλου που θα κατηγοριοποιεί εικόνες                                        |
 | **Τι θα χρειαστείτε**          | Python 3.8+, Visual Studio Code, Git |
 | **Διάρκεια**                  | 1 ώρα                                                                |
-| **Θέλετε απλώς να δοκιμάσετε την εφαρμογή ή να δείτε την λύση;** | [Λύση](/custom-vision-workshop/solution)                         |
-| **Διαφάνειες** | [Powerpoint](/custom-vision-workshop/slides.pptx)
+| **Θέλετε απλώς να δοκιμάσετε την εφαρμογή ή να δείτε την λύση;** | [Λύση](/solution)                         |
+| **Διαφάνειες** | [Powerpoint](slides.pptx)
 | **Δημιουργός** | [Christopher Harrison](https://aka.ms/geektrainer)
 
 ## Τι θα φτιάξετε με το CustomVision.ai
 
-![demo image](https://github.com/sitistas/workshop-test/blob/eea279974170d54f5ce4cbf4c941b4601d39f99e/custom-vision-workshop/images/demo.png)
+![demo image](/images/demo.png)
 
 ## Προαπαιτούμενα
 
