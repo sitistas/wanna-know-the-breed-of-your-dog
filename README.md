@@ -12,7 +12,7 @@
 | **Τι θα χρειαστείτε**          | Python 3.8+, Visual Studio Code, Git |
 | **Διάρκεια**                  | 1 ώρα                                                                |
 | **Θέλετε απλώς να δοκιμάσετε την εφαρμογή ή να δείτε την λύση;** | [Λύση](/solution)                         |
-| **Διαφάνειες** | [Powerpoint](slides.pptx)
+| **Διαφάνειες** | [Slides](slides.pdf)
 | **Δημιουργός** | [Christopher Harrison](https://aka.ms/geektrainer)
 
 ## Τι θα φτιάξετε με το CustomVision.ai
