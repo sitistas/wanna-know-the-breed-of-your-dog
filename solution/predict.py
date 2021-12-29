@@ -23,7 +23,7 @@ credentials = ApiKeyCredentials(in_headers={'Prediction-key':key})
 client = CustomVisionPredictionClient(endpoint, credentials)
 
 # Open the test file
-with open('../testing-images/american-staffordshire-terrier-10.jpg', 'rb') as image:
+with open('/testing-images/american-staffordshire-terrier-10.jpg', 'rb') as image:
     # Perform the prediction
     results = client.classify_image(project_id, published_name, image.read())
 
